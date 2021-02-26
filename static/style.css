@@ -1,0 +1,21 @@
+body{
+padding: 0px;
+margin: 0px;
+background-color: black;
+}
+.title{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.text{
+    color:chartreuse;
+    font-size:36px;
+}
+#pic{
+    padding-right: 82px;
+    height:430px ; 
+    width: 500px;
+}
