@@ -1,7 +1,8 @@
 body{
 padding: 0px;
 margin: 0px;
-background-color: black;
+background-color: black; 
+color: white;
 }
 .title{
     display: grid;
@@ -18,5 +19,33 @@ background-color: black;
     padding-right: 82px;
     height:430px ; 
     width: 500px; 
-    border-radius: 20px;;
+    border-radius: 20px;
+    
+}
+#learn, .hire{
+    height: 35px;
+    width: 180px;
+    border-radius: 4px;
+    background-color: red;
+    color: white;
+} 
+header{ 
+    height: 80px;
+    width: 100%;
+    background-color: gray; 
+    padding: 0px;
+    margin: 0px;
+
+} 
+
+main{
+    height: 450px;
+    width: 100%;
+    background-image: url("images/pro\ pic.jpg"); 
+    background-size: cover;
+    display: grid;
+    place-items: center;
+} 
+#learn{
+    margin-top: 215px;
 }
