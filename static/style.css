@@ -17,5 +17,6 @@ background-color: black;
 #pic{
     padding-right: 82px;
     height:430px ; 
-    width: 500px;
+    width: 500px; 
+    border-radius: 20px;;
 }
