@@ -49,3 +49,11 @@ main{
 #learn{
     margin-top: 215px;
 }
+.link{
+    background-color: white;
+    border: 2px solid black;
+    color: green;
+    padding:5px 10px;
+    text-align: center;
+    margin: 10px 30px;
+}
